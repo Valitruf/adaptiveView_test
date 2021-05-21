@@ -1,1 +1,1 @@
-# Adaptive screen for Android app
+# Adaptive screen and carousel widgets for Android only
